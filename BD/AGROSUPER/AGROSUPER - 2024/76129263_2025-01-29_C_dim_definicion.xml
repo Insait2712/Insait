@@ -1,0 +1,607 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/circ-1901_2008-10-30_role-872000" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_circ-1901/cl-ci_circ-1901_2008-10-30_role-872000.xsd#circ-1901_2008-10-30_role-872000" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822450" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822450.xsd#cl-cp_2024-01-02_role-822450" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822450a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822450.xsd#cl-cp_2024-01-02_role-822450a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-872500a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-872500.xsd#cl-cp_2024-01-02_role-872500a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400f" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400f" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400g" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400g" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400d" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400d" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400e" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400e" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400i" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400i" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400j" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400j" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400h" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822400.xsd#cl-cp_2024-01-02_role-822400h" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822410b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822410.xsd#cl-cp_2024-01-02_role-822410b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822410a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cl-cp/cl-ci_cl-cp_2024-01-02_role-822410.xsd#cl-cp_2024-01-02_role-822410a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-861200b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-1/cl-ci_ias-1_2023-03-23_role-861200.xsd#ias-1_2023-03-23_role-861200b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-861200" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-1/cl-ci_ias-1_2023-03-23_role-861200.xsd#ias-1_2023-03-23_role-861200" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-861200a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-1/cl-ci_ias-1_2023-03-23_role-861200.xsd#ias-1_2023-03-23_role-861200a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-880000a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-1/cl-ci_ias-1_2023-03-23_role-880000.xsd#ias-1_2023-03-23_role-880000a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-880000b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-1/cl-ci_ias-1_2023-03-23_role-880000.xsd#ias-1_2023-03-23_role-880000b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-800200a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-1/cl-ci_ias-1_2023-03-23_role-800200.xsd#ias-1_2023-03-23_role-800200a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-810000c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-1/cl-ci_ias-1_2023-03-23_role-810000.xsd#ias-1_2023-03-23_role-810000c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-810000d" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-1/cl-ci_ias-1_2023-03-23_role-810000.xsd#ias-1_2023-03-23_role-810000d" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-810000b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-1/cl-ci_ias-1_2023-03-23_role-810000.xsd#ias-1_2023-03-23_role-810000b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110e" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-12/cl-ci_ias-12_2023-03-23_role-835110.xsd#ias-12_2023-03-23_role-835110e" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110f" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-12/cl-ci_ias-12_2023-03-23_role-835110.xsd#ias-12_2023-03-23_role-835110f" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-12/cl-ci_ias-12_2023-03-23_role-835110.xsd#ias-12_2023-03-23_role-835110c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-12/cl-ci_ias-12_2023-03-23_role-835110.xsd#ias-12_2023-03-23_role-835110b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-12/cl-ci_ias-12_2023-03-23_role-835110.xsd#ias-12_2023-03-23_role-835110a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110d" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-12/cl-ci_ias-12_2023-03-23_role-835110.xsd#ias-12_2023-03-23_role-835110d" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-16_2023-03-23_role-822100a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-16/cl-ci_ias-16_2023-03-23_role-822100.xsd#ias-16_2023-03-23_role-822100a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-16_2023-03-23_role-822100" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-16/cl-ci_ias-16_2023-03-23_role-822100.xsd#ias-16_2023-03-23_role-822100" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-2_2023-03-23_role-826380a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-2/cl-ci_ias-2_2023-03-23_role-826380.xsd#ias-2_2023-03-23_role-826380a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-24_2023-03-23_role-818000a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-24/cl-ci_ias-24_2023-03-23_role-818000.xsd#ias-24_2023-03-23_role-818000a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-24_2023-03-23_role-818000c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-24/cl-ci_ias-24_2023-03-23_role-818000.xsd#ias-24_2023-03-23_role-818000c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-24_2023-03-23_role-818000b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-24/cl-ci_ias-24_2023-03-23_role-818000.xsd#ias-24_2023-03-23_role-818000b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-36_2023-03-23_role-832410a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-36/cl-ci_ias-36_2023-03-23_role-832410.xsd#ias-36_2023-03-23_role-832410a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-36_2023-03-23_role-832410d" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-36/cl-ci_ias-36_2023-03-23_role-832410.xsd#ias-36_2023-03-23_role-832410d" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-36_2023-03-23_role-832410b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-36/cl-ci_ias-36_2023-03-23_role-832410.xsd#ias-36_2023-03-23_role-832410b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-36_2023-03-23_role-832410c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-36/cl-ci_ias-36_2023-03-23_role-832410.xsd#ias-36_2023-03-23_role-832410c" xlink:type="simple" />
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs/ias_37_2023-03-23_role-827570b" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/linkbases/ias_37/rol_ias_37_2023-03-23.xsd#ias_37_2023-03-23_role-827570b" xlink:type="simple" />
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs/ias_37_2023-03-23_role-827570a" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/linkbases/ias_37/rol_ias_37_2023-03-23.xsd#ias_37_2023-03-23_role-827570a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-38_2023-03-23_role-823180" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-38/cl-ci_ias-38_2023-03-23_role-823180.xsd#ias-38_2023-03-23_role-823180" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-38_2023-03-23_role-823180b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-38/cl-ci_ias-38_2023-03-23_role-823180.xsd#ias-38_2023-03-23_role-823180b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-38_2023-03-23_role-823180c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-38/cl-ci_ias-38_2023-03-23_role-823180.xsd#ias-38_2023-03-23_role-823180c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-41_2023-03-23_role-824180d" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-41/cl-ci_ias-41_2023-03-23_role-824180.xsd#ias-41_2023-03-23_role-824180d" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-41_2023-03-23_role-824180a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-41/cl-ci_ias-41_2023-03-23_role-824180.xsd#ias-41_2023-03-23_role-824180a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-41_2023-03-23_role-824180c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-41/cl-ci_ias-41_2023-03-23_role-824180.xsd#ias-41_2023-03-23_role-824180c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-41_2023-03-23_role-824180b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-41/cl-ci_ias-41_2023-03-23_role-824180.xsd#ias-41_2023-03-23_role-824180b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-7_2023-03-23_role-851100a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-7/cl-ci_ias-7_2023-03-23_role-851100.xsd#ias-7_2023-03-23_role-851100a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-7_2023-03-23_role-851100c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-7/cl-ci_ias-7_2023-03-23_role-851100.xsd#ias-7_2023-03-23_role-851100c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ias-7_2023-03-23_role-851100b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ias-7/cl-ci_ias-7_2023-03-23_role-851100.xsd#ias-7_2023-03-23_role-851100b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-12/cl-ci_ifrs-12_2023-03-23_role-825700.xsd#ifrs-12_2023-03-23_role-825700a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700g" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-12/cl-ci_ifrs-12_2023-03-23_role-825700.xsd#ifrs-12_2023-03-23_role-825700g" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700f" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-12/cl-ci_ifrs-12_2023-03-23_role-825700.xsd#ifrs-12_2023-03-23_role-825700f" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-12/cl-ci_ifrs-12_2023-03-23_role-825700.xsd#ifrs-12_2023-03-23_role-825700c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700d" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-12/cl-ci_ifrs-12_2023-03-23_role-825700.xsd#ifrs-12_2023-03-23_role-825700d" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-12/cl-ci_ifrs-12_2023-03-23_role-825700.xsd#ifrs-12_2023-03-23_role-825700b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-12/cl-ci_ifrs-12_2023-03-23_role-825700.xsd#ifrs-12_2023-03-23_role-825700" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700e" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-12/cl-ci_ifrs-12_2023-03-23_role-825700.xsd#ifrs-12_2023-03-23_role-825700e" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-13_2023-03-23_role-823000" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-13/cl-ci_ifrs-13_2023-03-23_role-823000.xsd#ifrs-13_2023-03-23_role-823000" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-13_2023-03-23_role-823000b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-13/cl-ci_ifrs-13_2023-03-23_role-823000.xsd#ifrs-13_2023-03-23_role-823000b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-13_2023-03-23_role-823000a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-13/cl-ci_ifrs-13_2023-03-23_role-823000.xsd#ifrs-13_2023-03-23_role-823000a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-13_2023-03-23_role-823000f" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-13/cl-ci_ifrs-13_2023-03-23_role-823000.xsd#ifrs-13_2023-03-23_role-823000f" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-15/cl-ci_ifrs-15_2023-03-23_role-831150.xsd#ifrs-15_2023-03-23_role-831150a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150f" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-15/cl-ci_ifrs-15_2023-03-23_role-831150.xsd#ifrs-15_2023-03-23_role-831150f" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-15/cl-ci_ifrs-15_2023-03-23_role-831150.xsd#ifrs-15_2023-03-23_role-831150c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-15/cl-ci_ifrs-15_2023-03-23_role-831150.xsd#ifrs-15_2023-03-23_role-831150b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150d" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-15/cl-ci_ifrs-15_2023-03-23_role-831150.xsd#ifrs-15_2023-03-23_role-831150d" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150e" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-15/cl-ci_ifrs-15_2023-03-23_role-831150.xsd#ifrs-15_2023-03-23_role-831150e" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150i" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-15/cl-ci_ifrs-15_2023-03-23_role-831150.xsd#ifrs-15_2023-03-23_role-831150i" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150g" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-15/cl-ci_ifrs-15_2023-03-23_role-831150.xsd#ifrs-15_2023-03-23_role-831150g" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150h" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-15/cl-ci_ifrs-15_2023-03-23_role-831150.xsd#ifrs-15_2023-03-23_role-831150h" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-16_2023-03-23_role-832610a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-16/cl-ci_ifrs-16_2023-03-23_role-832610.xsd#ifrs-16_2023-03-23_role-832610a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-16_2023-03-23_role-832610c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-16/cl-ci_ifrs-16_2023-03-23_role-832610.xsd#ifrs-16_2023-03-23_role-832610c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-16_2023-03-23_role-832610d" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-16/cl-ci_ifrs-16_2023-03-23_role-832610.xsd#ifrs-16_2023-03-23_role-832610d" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-16_2023-03-23_role-832610b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-16/cl-ci_ifrs-16_2023-03-23_role-832610.xsd#ifrs-16_2023-03-23_role-832610b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817100" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-3/cl-ci_ifrs-3_2023-03-23_role-817100.xsd#ifrs-3_2023-03-23_role-817100" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817000b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-3/cl-ci_ifrs-3_2023-03-23_role-817000.xsd#ifrs-3_2023-03-23_role-817000b" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817000" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-3/cl-ci_ifrs-3_2023-03-23_role-817000.xsd#ifrs-3_2023-03-23_role-817000" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817000c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-3/cl-ci_ifrs-3_2023-03-23_role-817000.xsd#ifrs-3_2023-03-23_role-817000c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817000a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-3/cl-ci_ifrs-3_2023-03-23_role-817000.xsd#ifrs-3_2023-03-23_role-817000a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-8_2023-03-23_role-871100c" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-8/cl-ci_ifrs-8_2023-03-23_role-871100.xsd#ifrs-8_2023-03-23_role-871100c" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-8_2023-03-23_role-871100d" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-8/cl-ci_ifrs-8_2023-03-23_role-871100.xsd#ifrs-8_2023-03-23_role-871100d" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-8_2023-03-23_role-871100a" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-8/cl-ci_ifrs-8_2023-03-23_role-871100.xsd#ifrs-8_2023-03-23_role-871100a" xlink:type="simple" />
+  <link:roleRef roleURI="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-8_2023-03-23_role-871100b" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_ifrs-8/cl-ci_ifrs-8_2023-03-23_role-871100.xsd#ifrs-8_2023-03-23_role-871100b" xlink:type="simple" />
+  <link:arcroleRef xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple" arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/circ-1901_2008-10-30_role-872000" xlink:type="extended">
+    <link:loc xlink:label="lbl1" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_TotalDesembolsosEnMedioAmbienteMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl2" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl2" xlink:from="lbl1" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl3" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl3" xlink:from="lbl1" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl4" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl4" xlink:from="lbl1" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl5" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl5" xlink:from="lbl1" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl6" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl6" xlink:from="lbl1" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822450" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822450a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-872500a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400f" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400g" xlink:type="extended">
+    <link:loc xlink:label="lbl7" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_DetallePorTipoOperacionesMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl8" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-NumeMontOper_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl8" xlink:from="lbl7" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl9" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-NumeMontOper_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl9" xlink:from="lbl7" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400d" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400e" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400b" xlink:type="extended">
+    <link:loc xlink:label="lbl10" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_ObligacionesEmisionesDeudaMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl11" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl11" xlink:from="lbl10" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl12" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl12" xlink:from="lbl10" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl13" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl13" xlink:from="lbl10" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl14" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl14" xlink:from="lbl10" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400a" xlink:type="extended">
+    <link:loc xlink:label="lbl15" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_PrestamosMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl16" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl16" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl17" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl17" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl18" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl18" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl19" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl19" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl20" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl20" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl21" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_12" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl21" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl22" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_13" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl22" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl23" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_14" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl23" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl24" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_15" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl24" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl25" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_16" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl25" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl26" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_17" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl26" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl27" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_18" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl27" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl28" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_19" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl28" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl29" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_20" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl29" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl30" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_21" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl30" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl31" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_22" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl31" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl32" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_23" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl32" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl33" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_24" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl33" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl34" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_25" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl34" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl35" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_26" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl35" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl36" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_27" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl36" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl37" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_28" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl37" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl38" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_29" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl38" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl39" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_30" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl39" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl40" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_31" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl40" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl41" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_32" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl41" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl42" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_33" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl42" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl43" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_34" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl43" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl44" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_35" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl44" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl45" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_36" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl45" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl46" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_37" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl46" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl47" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_38" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl47" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400c" xlink:type="extended">
+    <link:loc xlink:label="lbl48" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_RestriccionesFinancierasMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl49" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl49" xlink:from="lbl48" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl50" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl50" xlink:from="lbl48" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400i" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400j" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822400h" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822410b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/cl-cp_2024-01-02_role-822410a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-861200b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-861200" xlink:type="extended">
+    <link:loc xlink:label="lbl51" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_OrdinarySharesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl52" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-ClasCapiAcci_Cap.Enacciones1_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl52" xlink:from="lbl51" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl53" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-ClasCapiAcci_Cap.Enacciones2_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl53" xlink:from="lbl51" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl54" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_PreferenceSharesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl55" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-ClasCapiAcci_Cap.Enacciones1_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl55" xlink:from="lbl54" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-861200a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-880000a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-880000b" xlink:type="extended">
+    <link:loc xlink:label="lbl56" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_NumeroYNumeroPromedioEmpleadosMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl57" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-NumePromEmpl_Numeroempleados1_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl57" xlink:from="lbl56" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl58" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-NumePromEmpl_Numeroempleados2_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl58" xlink:from="lbl56" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-800200a" xlink:type="extended">
+    <link:loc xlink:label="lbl59" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_CostOfSalesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl60" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-ClasCapiAcci_CostoVentas1_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl60" xlink:from="lbl59" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl61" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-ClasCapiAcci_CostoVentas2_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl61" xlink:from="lbl59" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl62" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_SellingGeneralAndAdministrativeExpenseMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl63" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-ClasCapiAcci_GastoVentaAdmin1_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl63" xlink:from="lbl62" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl64" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-ClasCapiAcci_GastoVentaAdmin2_11" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl64" xlink:from="lbl62" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-810000c" xlink:type="extended">
+    <link:loc xlink:label="lbl65" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_AssetsAndLiabilitiesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl66" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-InfoReveAcPa_Inf.Activoypasivoconriesgo1_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl66" xlink:from="lbl65" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl67" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-InfoReveAcPa_Inf.Activoypasivoconriesgo2_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl67" xlink:from="lbl65" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-810000d" xlink:type="extended">
+    <link:loc xlink:label="lbl68" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_CapitalRequirementsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl69" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-InfoReveObPo_Req.Capital1_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl69" xlink:from="lbl68" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl70" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-InfoReveObPo_Req.Capital2_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl70" xlink:from="lbl68" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-1_2023-03-23_role-810000b" xlink:type="extended">
+    <link:loc xlink:label="lbl71" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_ReclassifiedItemsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl72" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-InfoReveReCa_Itemreclasificado1_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl72" xlink:from="lbl71" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl73" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS1-InfoReveReCa_Itemreclasificado2_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl73" xlink:from="lbl71" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110e" xlink:type="extended">
+    <link:loc xlink:label="lbl74" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_ConciliacionGananciaContableMultiplicadaPorTasasImpositivasAplicablesMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl75" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-ConcGanaCont_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl75" xlink:from="lbl74" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl76" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-ConcGanaCont_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl76" xlink:from="lbl74" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110f" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110c" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110a" xlink:type="extended">
+    <link:loc xlink:label="lbl77" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_PrincipalesComponentesDelGastoIngresoPorImpuestosMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl78" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-CompGastImpu_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl78" xlink:from="lbl77" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl79" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-CompGastImpu_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl79" xlink:from="lbl77" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-12_2023-03-23_role-835110d" xlink:type="extended">
+    <link:loc xlink:label="lbl80" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_TemporaryDifferenceMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl81" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_ProvisiónparalizaciónindefinidaComplejoAgroindustrialHuasco_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl81" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl82" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_GoodwillTributariovsGoodwillFinanciero_11" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl82" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl83" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_ProvisiónBeneficiosalPersonal_12" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl83" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl84" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_OtrasProvisiones_13" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl84" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl85" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_ProvisiónVacaciones_14" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl85" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl86" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Provisióndedeudasincobrables_15" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl86" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl87" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_FairValueIRSSwap_16" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl87" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl88" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Compensacióndeimpuestosdiferidos_17" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl88" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl89" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Diferenciaactivofijofinancieroytributario_18" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl89" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl90" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Efectocombinacióndenegocios_19" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl90" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl91" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Animalesnacidosenpredio_20" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl91" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl92" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Gastosindirectosdefabricación_21" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl92" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl93" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Gastosdiferidos_22" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl93" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl94" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_FairValuedeactivosbiológicoseInventarios_23" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl94" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl95" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Bonoconveniocolectivo_24" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl95" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl96" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Otroseventos_25" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl96" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl97" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Compensacióndeimpuestosdiferidos_26" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl97" xlink:from="lbl80" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl98" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_UnusedTaxLossesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl99" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Pérdidatributaria_28" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl99" xlink:from="lbl98" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl100" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Perdidas2_29" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl100" xlink:from="lbl98" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl101" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_UnusedTaxCreditsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl102" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Credito1_31" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl102" xlink:from="lbl101" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl103" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Credito2_32" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl103" xlink:from="lbl101" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-16_2023-03-23_role-822100a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-16_2023-03-23_role-822100" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-2_2023-03-23_role-826380a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-24_2023-03-23_role-818000a" xlink:type="extended">
+    <link:loc xlink:label="lbl104" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_RemuneracionPersonalClaveGerenciaMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl105" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-RemuPersClav_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl105" xlink:from="lbl104" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl106" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-RemuPersClav_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl106" xlink:from="lbl104" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-24_2023-03-23_role-818000c" xlink:type="extended">
+    <link:loc xlink:label="lbl107" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_SeparateManagementEntitiesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl108" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoInfoIncu_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl108" xlink:from="lbl107" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl109" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoInfoIncu_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl109" xlink:from="lbl107" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-24_2023-03-23_role-818000b" xlink:type="extended">
+    <link:loc xlink:label="lbl110" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_ParentMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl111" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl111" xlink:from="lbl110" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl112" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl112" xlink:from="lbl110" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl113" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl113" xlink:from="lbl110" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl114" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl114" xlink:from="lbl110" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl115" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl115" xlink:from="lbl110" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl116" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_12" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl116" xlink:from="lbl110" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl117" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_JointControlOrSignificantInfluenceMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl118" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_14" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl118" xlink:from="lbl117" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl119" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_15" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl119" xlink:from="lbl117" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl120" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_SubsidiariesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl121" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_17" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl121" xlink:from="lbl120" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl122" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_18" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl122" xlink:from="lbl120" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl123" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_AssociatesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl124" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_20" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl124" xlink:from="lbl123" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl125" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_21" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl125" xlink:from="lbl123" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl126" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_JointVenturesWhereEntityIsVenturerMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl127" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_23" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl127" xlink:from="lbl126" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl128" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_24" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl128" xlink:from="lbl126" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl129" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_KeyManagementPersonnelOfEntityOrParentMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl130" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_26" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl130" xlink:from="lbl129" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl131" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_27" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl131" xlink:from="lbl129" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl132" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_OtherRelatedPartiesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl133" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_29" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl133" xlink:from="lbl132" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl134" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_30" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl134" xlink:from="lbl132" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-36_2023-03-23_role-832410a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-36_2023-03-23_role-832410d" xlink:type="extended">
+    <link:loc xlink:label="lbl135" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_ReportableSegmentsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl136" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS36-PerDeteReco_INGRESARDESCRIPCIÓNDECOLUMNAOPCIONAL_4" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl136" xlink:from="lbl135" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-36_2023-03-23_role-832410b" xlink:type="extended">
+    <link:loc xlink:label="lbl137" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_IndividualAssetsOrCashgeneratingUnitsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl138" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS3-TranActvPasi_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl138" xlink:from="lbl137" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl139" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS3-TranActvPasi_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl139" xlink:from="lbl137" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-36_2023-03-23_role-832410c" xlink:type="extended">
+    <link:loc xlink:label="lbl140" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_IndividualAssetsOrCashgeneratingUnitsWithSignificantAmountOfGoodwillOrIntangibleAssetsWithIndefiniteUsefulLivesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl141" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS36-UnidGeneEfec_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl141" xlink:from="lbl140" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl142" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS36-UnidGeneEfec_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl142" xlink:from="lbl140" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs/ias_37_2023-03-23_role-827570b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs/ias_37_2023-03-23_role-827570a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-38_2023-03-23_role-823180" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-38_2023-03-23_role-823180b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-38_2023-03-23_role-823180c" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-41_2023-03-23_role-824180d" xlink:type="extended">
+    <link:loc xlink:label="lbl143" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_OtraInformacionActivosBiologicosMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl144" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS41-OtraInfoAcBi_Otrainformacion1_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl144" xlink:from="lbl143" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl145" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS41-OtraInfoAcBi_Otrainformacion2_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl145" xlink:from="lbl143" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-41_2023-03-23_role-824180a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-41_2023-03-23_role-824180c" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-41_2023-03-23_role-824180b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-7_2023-03-23_role-851100a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-7_2023-03-23_role-851100c" xlink:type="extended">
+    <link:loc xlink:label="lbl146" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_ImpuestosALasGananciasPagadosReembolsoMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl147" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS7-ImpuGanaPaga_Impuesto1_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl147" xlink:from="lbl146" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl148" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IAS7-ImpuGanaPaga_Impuesto2_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl148" xlink:from="lbl146" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ias-7_2023-03-23_role-851100b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700g" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700f" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700c" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700d" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700b" xlink:type="extended">
+    <link:loc xlink:label="lbl149" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_AssociatesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl150" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoSobrAsoc_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl150" xlink:from="lbl149" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl151" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoSobrAsoc_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl151" xlink:from="lbl149" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700" xlink:type="extended">
+    <link:loc xlink:label="lbl152" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_SubsidiariesWithMaterialNoncontrollingInterestsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl153" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl153" xlink:from="lbl152" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl154" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl154" xlink:from="lbl152" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl155" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_SubsidiariesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl156" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl156" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl157" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl157" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl158" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_12" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl158" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl159" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_13" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl159" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl160" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_14" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl160" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl161" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_15" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl161" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl162" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_16" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl162" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl163" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_17" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl163" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl164" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_18" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl164" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl165" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_19" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl165" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl166" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_20" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl166" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl167" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_21" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl167" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl168" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_22" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl168" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl169" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_23" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl169" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl170" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_24" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl170" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl171" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_25" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl171" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl172" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_26" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl172" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl173" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_27" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl173" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl174" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_28" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl174" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl175" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_29" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl175" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl176" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_30" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl176" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl177" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_31" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl177" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl178" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_32" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl178" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl179" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_33" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl179" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl180" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_34" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl180" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl181" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_35" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl181" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl182" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_36" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl182" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl183" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_37" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl183" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl184" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_38" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl184" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl185" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_39" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl185" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl186" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_40" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl186" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl187" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_41" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl187" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl188" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_42" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl188" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl189" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_43" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl189" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl190" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_44" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl190" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl191" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_45" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl191" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl192" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_46" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl192" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-12_2023-03-23_role-825700e" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-13_2023-03-23_role-823000" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-13_2023-03-23_role-823000b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-13_2023-03-23_role-823000a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-13_2023-03-23_role-823000f" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150a" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150f" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150c" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150d" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150e" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150i" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150g" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-15_2023-03-23_role-831150h" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-16_2023-03-23_role-832610a" xlink:type="extended">
+    <link:loc xlink:label="lbl193" xlink:href="https://www.cmfchile.cl/cl/fr/ci/2024-01-02/cl-ci_cor_2024-01-02.xsd#cl-ci_ObligacionesLeasingMiembro" xlink:type="locator" />
+    <link:loc xlink:label="lbl194" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS16-PasiPorArre_Pasivo1_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl194" xlink:from="lbl193" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl195" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS16-PasiPorArre_Pasivo2_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl195" xlink:from="lbl193" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-16_2023-03-23_role-832610c" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-16_2023-03-23_role-832610d" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-16_2023-03-23_role-832610b" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817100" xlink:type="extended">
+    <link:loc xlink:label="lbl196" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_BusinessCombinationsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl197" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS3-ConcCambPlus_INGRESARDESCRIPCIÓNDECOLUMNAOPCIONAL_5" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl197" xlink:from="lbl196" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817000b" xlink:type="extended">
+    <link:loc xlink:label="lbl198" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_BusinessCombinationsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl199" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS3-CuenCobrAdqu_INGRESARDESCRIPCIÓNDECOLUMNAOPCIONAL_5" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl199" xlink:from="lbl198" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817000" xlink:type="extended">
+    <link:loc xlink:label="lbl200" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_BusinessCombinationsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl201" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS3-DetaCombNego_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl201" xlink:from="lbl200" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl202" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS3-DetaCombNego_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl202" xlink:from="lbl200" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817000c" xlink:type="extended">
+    <link:loc xlink:label="lbl203" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_BusinessCombinationsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl204" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS3-PasiContCoNe_INGRESARDESCRIPCIÓNDECOLUMNAOPCIONAL_5" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl204" xlink:from="lbl203" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-3_2023-03-23_role-817000a" xlink:type="extended">
+    <link:loc xlink:label="lbl205" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_BusinessCombinationsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl206" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS3-TranActvPasi_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl206" xlink:from="lbl205" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl207" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS3-TranActvPasi_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl207" xlink:from="lbl205" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-8_2023-03-23_role-871100c" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-8_2023-03-23_role-871100d" xlink:type="extended" />
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-8_2023-03-23_role-871100a" xlink:type="extended">
+    <link:loc xlink:label="lbl208" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_ReportableSegmentsMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl209" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoSegmOper_Carnes_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl209" xlink:from="lbl208" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl210" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoSegmOper_Acuícola_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl210" xlink:from="lbl208" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl211" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoSegmOper_Otros_9" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl211" xlink:from="lbl208" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl212" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoSegmOper_Anulaciones_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl212" xlink:from="lbl208" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://www.cmfchile.cl/cl/fr/ci/role/ifrs-8_2023-03-23_role-871100b" xlink:type="extended">
+    <link:loc xlink:label="lbl213" xlink:href="http://xbrl.ifrs.org/taxonomy/2023-03-23/full_ifrs/full_ifrs-cor_2023-03-23.xsd#ifrs-full_ProductsAndServicesMember" xlink:type="locator" />
+    <link:loc xlink:label="lbl214" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoProdServ_Pollo_7" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl214" xlink:from="lbl213" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl215" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoProdServ_Cerdo_8" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl215" xlink:from="lbl213" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl216" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoProdServ_Pavos_9" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl216" xlink:from="lbl213" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl217" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoProdServ_Procesados_10" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl217" xlink:from="lbl213" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl218" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoProdServ_Acuícolas_11" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl218" xlink:from="lbl213" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl219" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoProdServ_Otros_12" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl219" xlink:from="lbl213" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+    <link:loc xlink:label="lbl220" xlink:href="76129263_2025-01-29_C_dimension.xsd#tx_IFRS8-InfoProdServ_Anulaciones_13" xlink:type="locator" />
+    <link:definitionArc xlink:to="lbl220" xlink:from="lbl213" xlink:type="arc" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" />
+  </link:definitionLink>
+</link:linkbase>

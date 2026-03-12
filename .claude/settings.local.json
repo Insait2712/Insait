@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.cmfchile.cl)",
+      "WebFetch(domain:si3.bcentral.cl)",
+      "WebFetch(domain:api.cmfchile.cl)",
+      "WebFetch(domain:www.bcentral.cl)",
+      "WebFetch(domain:cmfchile.cl)"
+    ]
+  }
+}

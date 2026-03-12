@@ -1,0 +1,779 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:loc xlink:label="lbl1" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-NumeMontOper_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl2" xlink:type="resource" id="id2" xml:lang="es">Agregar columna opcional</link:label>
+    <link:labelArc xlink:to="lbl2" xlink:from="lbl1" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl3" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-NumeMontOper_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl4" xlink:type="resource" id="id4" xml:lang="es">Agregar columna opcional</link:label>
+    <link:labelArc xlink:to="lbl4" xlink:from="lbl3" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl5" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoAdicDivi_Dividendopersonalizado1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl6" xlink:type="resource" id="id6" xml:lang="es">Dividendopersonalizado1</link:label>
+    <link:labelArc xlink:to="lbl6" xlink:from="lbl5" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl7" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoAdicDivi_Dividendopersonalizado2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl8" xlink:type="resource" id="id8" xml:lang="es">Dividendopersonalizado2</link:label>
+    <link:labelArc xlink:to="lbl8" xlink:from="lbl7" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl9" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoAdicDivi_Dividendopersonalizado3_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl10" xlink:type="resource" id="id10" xml:lang="es">Dividendopersonalizado3</link:label>
+    <link:labelArc xlink:to="lbl10" xlink:from="lbl9" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl11" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoAdicDivi_Dividendopersonalizado4_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl12" xlink:type="resource" id="id12" xml:lang="es">Dividendopersonalizado4</link:label>
+    <link:labelArc xlink:to="lbl12" xlink:from="lbl11" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl13" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl14" xlink:type="resource" id="id14" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl14" xlink:from="lbl13" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl15" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl16" xlink:type="resource" id="id16" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl16" xlink:from="lbl15" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl17" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_12" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl18" xlink:type="resource" id="id18" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl18" xlink:from="lbl17" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl19" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_13" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl20" xlink:type="resource" id="id20" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl20" xlink:from="lbl19" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl21" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_14" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl22" xlink:type="resource" id="id22" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl22" xlink:from="lbl21" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl23" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_15" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl24" xlink:type="resource" id="id24" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl24" xlink:from="lbl23" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl25" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_16" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl26" xlink:type="resource" id="id26" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl26" xlink:from="lbl25" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl27" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_17" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl28" xlink:type="resource" id="id28" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl28" xlink:from="lbl27" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl29" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_18" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl30" xlink:type="resource" id="id30" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl30" xlink:from="lbl29" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl31" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_19" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl32" xlink:type="resource" id="id32" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl32" xlink:from="lbl31" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl33" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_20" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl34" xlink:type="resource" id="id34" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl34" xlink:from="lbl33" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl35" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_21" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl36" xlink:type="resource" id="id36" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl36" xlink:from="lbl35" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl37" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_22" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl38" xlink:type="resource" id="id38" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl38" xlink:from="lbl37" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl39" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl40" xlink:type="resource" id="id40" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl40" xlink:from="lbl39" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl41" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl42" xlink:type="resource" id="id42" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl42" xlink:from="lbl41" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl43" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CIRC1901-InfoReveMA_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl44" xlink:type="resource" id="id44" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl44" xlink:from="lbl43" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl45" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl46" xlink:type="resource" id="id46" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl46" xlink:from="lbl45" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl47" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl48" xlink:type="resource" id="id48" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl48" xlink:from="lbl47" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl49" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_12" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl50" xlink:type="resource" id="id50" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl50" xlink:from="lbl49" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl51" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_13" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl52" xlink:type="resource" id="id52" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl52" xlink:from="lbl51" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl53" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_14" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl54" xlink:type="resource" id="id54" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl54" xlink:from="lbl53" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl55" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_15" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl56" xlink:type="resource" id="id56" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl56" xlink:from="lbl55" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl57" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_16" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl58" xlink:type="resource" id="id58" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl58" xlink:from="lbl57" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl59" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_17" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl60" xlink:type="resource" id="id60" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl60" xlink:from="lbl59" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl61" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_18" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl62" xlink:type="resource" id="id62" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl62" xlink:from="lbl61" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl63" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_19" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl64" xlink:type="resource" id="id64" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl64" xlink:from="lbl63" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl65" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_20" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl66" xlink:type="resource" id="id66" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl66" xlink:from="lbl65" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl67" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_21" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl68" xlink:type="resource" id="id68" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl68" xlink:from="lbl67" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl69" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_22" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl70" xlink:type="resource" id="id70" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl70" xlink:from="lbl69" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl71" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_23" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl72" xlink:type="resource" id="id72" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl72" xlink:from="lbl71" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl73" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_24" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl74" xlink:type="resource" id="id74" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl74" xlink:from="lbl73" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl75" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl76" xlink:type="resource" id="id76" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl76" xlink:from="lbl75" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl77" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl78" xlink:type="resource" id="id78" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl78" xlink:from="lbl77" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl79" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConPubl_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl80" xlink:type="resource" id="id80" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl80" xlink:from="lbl79" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl81" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS16-PasiPorArre_Pasivo1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl82" xlink:type="resource" id="id82" xml:lang="es">Pasivo1</link:label>
+    <link:labelArc xlink:to="lbl82" xlink:from="lbl81" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl83" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS16-PasiPorArre_Pasivo2_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl84" xlink:type="resource" id="id84" xml:lang="es">Pasivo2</link:label>
+    <link:labelArc xlink:to="lbl84" xlink:from="lbl83" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl85" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS16-PasiPorArre_Pasivo2_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl86" xlink:type="resource" id="id86" xml:lang="es">Pasivo2</link:label>
+    <link:labelArc xlink:to="lbl86" xlink:from="lbl85" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl87" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS16-PasiPorArre_Pasivo2_12" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl88" xlink:type="resource" id="id88" xml:lang="es">Pasivo2</link:label>
+    <link:labelArc xlink:to="lbl88" xlink:from="lbl87" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl89" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS16-PasiPorArre_Pasivo2_13" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl90" xlink:type="resource" id="id90" xml:lang="es">Pasivo2</link:label>
+    <link:labelArc xlink:to="lbl90" xlink:from="lbl89" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl91" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS16-PasiPorArre_Pasivo2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl92" xlink:type="resource" id="id92" xml:lang="es">Pasivo2</link:label>
+    <link:labelArc xlink:to="lbl92" xlink:from="lbl91" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl93" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS16-PasiPorArre_Pasivo2_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl94" xlink:type="resource" id="id94" xml:lang="es">Pasivo2</link:label>
+    <link:labelArc xlink:to="lbl94" xlink:from="lbl93" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl95" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl96" xlink:type="resource" id="id96" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl96" xlink:from="lbl95" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl97" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl98" xlink:type="resource" id="id98" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl98" xlink:from="lbl97" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl99" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_12" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl100" xlink:type="resource" id="id100" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl100" xlink:from="lbl99" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl101" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_13" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl102" xlink:type="resource" id="id102" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl102" xlink:from="lbl101" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl103" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_14" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl104" xlink:type="resource" id="id104" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl104" xlink:from="lbl103" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl105" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_15" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl106" xlink:type="resource" id="id106" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl106" xlink:from="lbl105" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl107" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_16" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl108" xlink:type="resource" id="id108" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl108" xlink:from="lbl107" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl109" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_17" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl110" xlink:type="resource" id="id110" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl110" xlink:from="lbl109" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl111" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_18" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl112" xlink:type="resource" id="id112" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl112" xlink:from="lbl111" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl113" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_19" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl114" xlink:type="resource" id="id114" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl114" xlink:from="lbl113" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl115" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_20" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl116" xlink:type="resource" id="id116" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl116" xlink:from="lbl115" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl117" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_21" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl118" xlink:type="resource" id="id118" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl118" xlink:from="lbl117" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl119" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_22" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl120" xlink:type="resource" id="id120" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl120" xlink:from="lbl119" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl121" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_23" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl122" xlink:type="resource" id="id122" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl122" xlink:from="lbl121" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl123" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_24" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl124" xlink:type="resource" id="id124" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl124" xlink:from="lbl123" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl125" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_25" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl126" xlink:type="resource" id="id126" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl126" xlink:from="lbl125" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl127" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_26" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl128" xlink:type="resource" id="id128" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl128" xlink:from="lbl127" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl129" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_27" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl130" xlink:type="resource" id="id130" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl130" xlink:from="lbl129" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl131" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_28" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl132" xlink:type="resource" id="id132" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl132" xlink:from="lbl131" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl133" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_29" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl134" xlink:type="resource" id="id134" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl134" xlink:from="lbl133" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl135" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_30" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl136" xlink:type="resource" id="id136" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl136" xlink:from="lbl135" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl137" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_31" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl138" xlink:type="resource" id="id138" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl138" xlink:from="lbl137" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl139" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_32" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl140" xlink:type="resource" id="id140" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl140" xlink:from="lbl139" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl141" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl142" xlink:type="resource" id="id142" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl142" xlink:from="lbl141" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl143" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl144" xlink:type="resource" id="id144" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl144" xlink:from="lbl143" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl145" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-ObligConBanc_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl146" xlink:type="resource" id="id146" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl146" xlink:from="lbl145" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl147" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-CompInveCapi_Compromiso1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl148" xlink:type="resource" id="id148" xml:lang="es">Compromiso1</link:label>
+    <link:labelArc xlink:to="lbl148" xlink:from="lbl147" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl149" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-CompInveCapi_Compromiso2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl150" xlink:type="resource" id="id150" xml:lang="es">Compromiso2</link:label>
+    <link:labelArc xlink:to="lbl150" xlink:from="lbl149" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl151" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-ConcGanaCont_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl152" xlink:type="resource" id="id152" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl152" xlink:from="lbl151" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl153" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-ConcGanaCont_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl154" xlink:type="resource" id="id154" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl154" xlink:from="lbl153" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl155" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-ConcTasaImpo_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl156" xlink:type="resource" id="id156" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl156" xlink:from="lbl155" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl157" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-ConcTasaImpo_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl158" xlink:type="resource" id="id158" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl158" xlink:from="lbl157" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl159" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CLCP-ImpoReclPeri_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl160" xlink:type="resource" id="id160" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl160" xlink:from="lbl159" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl161" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CLCP-ImpoReclPeri_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl162" xlink:type="resource" id="id162" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl162" xlink:from="lbl161" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl163" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-ImpuResuInte_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl164" xlink:type="resource" id="id164" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl164" xlink:from="lbl163" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl165" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-ImpuResuInte_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl166" xlink:type="resource" id="id166" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl166" xlink:from="lbl165" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl167" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-ImpuCorrDife_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl168" xlink:type="resource" id="id168" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl168" xlink:from="lbl167" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl169" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-ImpuCorrDife_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl170" xlink:type="resource" id="id170" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl170" xlink:from="lbl169" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl171" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CLCP-MoneNaciExtr_Agregarcolumnaopcional1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl172" xlink:type="resource" id="id172" xml:lang="es">Agregarcolumnaopcional1</link:label>
+    <link:labelArc xlink:to="lbl172" xlink:from="lbl171" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl173" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_CLCP-MoneNaciExtr_Agregarcolumnaopcional2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl174" xlink:type="resource" id="id174" xml:lang="es">Agregarcolumnaopcional2</link:label>
+    <link:labelArc xlink:to="lbl174" xlink:from="lbl173" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl175" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-NumePromEmpl_Numeroempleados1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl176" xlink:type="resource" id="id176" xml:lang="es">Numeroempleados1</link:label>
+    <link:labelArc xlink:to="lbl176" xlink:from="lbl175" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl177" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-NumePromEmpl_Numeroempleados2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl178" xlink:type="resource" id="id178" xml:lang="es">Numeroempleados2</link:label>
+    <link:labelArc xlink:to="lbl178" xlink:from="lbl177" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl179" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-CompGastImpu_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl180" xlink:type="resource" id="id180" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl180" xlink:from="lbl179" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl181" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-CompGastImpu_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl182" xlink:type="resource" id="id182" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl182" xlink:from="lbl181" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl183" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-RemuPersClav_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl184" xlink:type="resource" id="id184" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl184" xlink:from="lbl183" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl185" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-RemuPersClav_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl186" xlink:type="resource" id="id186" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl186" xlink:from="lbl185" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl187" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS7-EfEqDifeBala_Efectivo1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl188" xlink:type="resource" id="id188" xml:lang="es">Efectivo1</link:label>
+    <link:labelArc xlink:to="lbl188" xlink:from="lbl187" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl189" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS7-EfEqDifeBala_Efectivo2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl190" xlink:type="resource" id="id190" xml:lang="es">Efectivo2</link:label>
+    <link:labelArc xlink:to="lbl190" xlink:from="lbl189" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl191" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS7-ImpuGanaPaga_Impuesto1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl192" xlink:type="resource" id="id192" xml:lang="es">Impuesto1</link:label>
+    <link:labelArc xlink:to="lbl192" xlink:from="lbl191" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl193" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS7-ImpuGanaPaga_Impuesto2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl194" xlink:type="resource" id="id194" xml:lang="es">Impuesto2</link:label>
+    <link:labelArc xlink:to="lbl194" xlink:from="lbl193" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl195" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl196" xlink:type="resource" id="id196" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl196" xlink:from="lbl195" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl197" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl198" xlink:type="resource" id="id198" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl198" xlink:from="lbl197" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl199" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_12" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl200" xlink:type="resource" id="id200" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl200" xlink:from="lbl199" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl201" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_13" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl202" xlink:type="resource" id="id202" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl202" xlink:from="lbl201" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl203" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_14" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl204" xlink:type="resource" id="id204" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl204" xlink:from="lbl203" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl205" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_15" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl206" xlink:type="resource" id="id206" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl206" xlink:from="lbl205" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl207" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_16" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl208" xlink:type="resource" id="id208" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl208" xlink:from="lbl207" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl209" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl210" xlink:type="resource" id="id210" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl210" xlink:from="lbl209" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl211" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl212" xlink:type="resource" id="id212" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl212" xlink:from="lbl211" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl213" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS7-RestFina_Agregarrestriccionfinanciera_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl214" xlink:type="resource" id="id214" xml:lang="es">Agregarrestriccionfinanciera</link:label>
+    <link:labelArc xlink:to="lbl214" xlink:from="lbl213" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl215" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS3-CuenCobrAdqu_INGRESARDESCRIPCIÓNDECOLUMNAOPCIONAL_5" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl216" xlink:type="resource" id="id216" xml:lang="es">INGRESAR DESCRIPCIÓN DE COLUMNA OPCIONAL</link:label>
+    <link:labelArc xlink:to="lbl216" xlink:from="lbl215" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl217" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoInfoIncu_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl218" xlink:type="resource" id="id218" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl218" xlink:from="lbl217" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl219" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoInfoIncu_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl220" xlink:type="resource" id="id220" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl220" xlink:from="lbl219" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl221" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoReveAcPa_Inf.Activoypasivoconriesgo1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl222" xlink:type="resource" id="id222" xml:lang="es">Inf.Activoypasivoconriesgo1</link:label>
+    <link:labelArc xlink:to="lbl222" xlink:from="lbl221" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl223" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoReveAcPa_Inf.Activoypasivoconriesgo2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl224" xlink:type="resource" id="id224" xml:lang="es">Inf.Activoypasivoconriesgo2</link:label>
+    <link:labelArc xlink:to="lbl224" xlink:from="lbl223" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl225" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS3-DetaCombNego_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl226" xlink:type="resource" id="id226" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl226" xlink:from="lbl225" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl227" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS3-DetaCombNego_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl228" xlink:type="resource" id="id228" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl228" xlink:from="lbl227" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl229" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-ClasCapiAcci_Cap.Enacciones1_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl230" xlink:type="resource" id="id230" xml:lang="es">Cap.Enacciones1</link:label>
+    <link:labelArc xlink:to="lbl230" xlink:from="lbl229" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl231" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-ClasCapiAcci_Cap.Enacciones1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl232" xlink:type="resource" id="id232" xml:lang="es">Cap.Enacciones1</link:label>
+    <link:labelArc xlink:to="lbl232" xlink:from="lbl231" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl233" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-ClasCapiAcci_Cap.Enacciones2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl234" xlink:type="resource" id="id234" xml:lang="es">Cap.Enacciones2</link:label>
+    <link:labelArc xlink:to="lbl234" xlink:from="lbl233" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl235" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS3-PasiContCoNe_INGRESARDESCRIPCIÓNDECOLUMNAOPCIONAL_5" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl236" xlink:type="resource" id="id236" xml:lang="es">INGRESAR DESCRIPCIÓN DE COLUMNA OPCIONAL</link:label>
+    <link:labelArc xlink:to="lbl236" xlink:from="lbl235" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl237" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS13-InfoMedValoJust_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl238" xlink:type="resource" id="id238" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl238" xlink:from="lbl237" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl239" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS13-InfoMedValoJust_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl240" xlink:type="resource" id="id240" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl240" xlink:from="lbl239" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl241" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS13-InfoMedValoJustB_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl242" xlink:type="resource" id="id242" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl242" xlink:from="lbl241" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl243" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS13-InfoMedValoJustB_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl244" xlink:type="resource" id="id244" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl244" xlink:from="lbl243" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl245" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS13-InfoMedValoJustA_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl246" xlink:type="resource" id="id246" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl246" xlink:from="lbl245" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl247" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS13-InfoMedValoJustA_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl248" xlink:type="resource" id="id248" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl248" xlink:from="lbl247" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl249" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoAreaGeog_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl250" xlink:type="resource" id="id250" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl250" xlink:from="lbl249" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl251" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoAreaGeog_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl252" xlink:type="resource" id="id252" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl252" xlink:from="lbl251" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl253" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoAreaGeog_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl254" xlink:type="resource" id="id254" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl254" xlink:from="lbl253" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl255" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoEstrCons_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl256" xlink:type="resource" id="id256" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl256" xlink:from="lbl255" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl257" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoEstrCons_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl258" xlink:type="resource" id="id258" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl258" xlink:from="lbl257" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl259" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoEntiEstrNCons_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl260" xlink:type="resource" id="id260" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl260" xlink:from="lbl259" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl261" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-ReveSubsNoConso_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl262" xlink:type="resource" id="id262" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl262" xlink:from="lbl261" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl263" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-ReveSubsNoConso_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl264" xlink:type="resource" id="id264" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl264" xlink:from="lbl263" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl265" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-ReveSubsNoConso_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl266" xlink:type="resource" id="id266" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl266" xlink:from="lbl265" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl267" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-ReveSubsNoConso_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl268" xlink:type="resource" id="id268" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl268" xlink:from="lbl267" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl269" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS38-InfoActiIntaUtil_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl270" xlink:type="resource" id="id270" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl270" xlink:from="lbl269" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl271" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS38-InfoActiIntaUtil_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl272" xlink:type="resource" id="id272" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl272" xlink:from="lbl271" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl273" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoOperConj_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl274" xlink:type="resource" id="id274" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl274" xlink:from="lbl273" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl275" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoOperConj_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl276" xlink:type="resource" id="id276" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl276" xlink:from="lbl275" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl277" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoNegoConj_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl278" xlink:type="resource" id="id278" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl278" xlink:from="lbl277" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl279" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoNegoConj_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl280" xlink:type="resource" id="id280" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl280" xlink:from="lbl279" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl281" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS13-InfoMedValoJustF_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl282" xlink:type="resource" id="id282" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl282" xlink:from="lbl281" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl283" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS13-InfoMedValoJustF_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl284" xlink:type="resource" id="id284" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl284" xlink:from="lbl283" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl285" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoClieImpr_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl286" xlink:type="resource" id="id286" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl286" xlink:from="lbl285" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl287" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoClieImpr_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl288" xlink:type="resource" id="id288" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl288" xlink:from="lbl287" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl289" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoClieImpr_Agregarcolumnaopcional_12" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl290" xlink:type="resource" id="id290" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl290" xlink:from="lbl289" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl291" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoClieImpr_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl292" xlink:type="resource" id="id292" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl292" xlink:from="lbl291" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl293" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoClieImpr_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl294" xlink:type="resource" id="id294" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl294" xlink:from="lbl293" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl295" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoReveObPo_Req.Capital1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl296" xlink:type="resource" id="id296" xml:lang="es">Req.Capital1</link:label>
+    <link:labelArc xlink:to="lbl296" xlink:from="lbl295" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl297" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoReveObPo_Req.Capital2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl298" xlink:type="resource" id="id298" xml:lang="es">Req.Capital2</link:label>
+    <link:labelArc xlink:to="lbl298" xlink:from="lbl297" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl299" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoSegmOper_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl300" xlink:type="resource" id="id300" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl300" xlink:from="lbl299" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl301" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoSegmOper_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl302" xlink:type="resource" id="id302" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl302" xlink:from="lbl301" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl303" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoSegmOper_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl304" xlink:type="resource" id="id304" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl304" xlink:from="lbl303" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl305" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoSegmOper_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl306" xlink:type="resource" id="id306" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl306" xlink:from="lbl305" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl307" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoProdServ_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl308" xlink:type="resource" id="id308" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl308" xlink:from="lbl307" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl309" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoProdServ_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl310" xlink:type="resource" id="id310" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl310" xlink:from="lbl309" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl311" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS8-InfoProdServ_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl312" xlink:type="resource" id="id312" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl312" xlink:from="lbl311" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl313" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoReveReCa_Itemreclasificado1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl314" xlink:type="resource" id="id314" xml:lang="es">Itemreclasificado1</link:label>
+    <link:labelArc xlink:to="lbl314" xlink:from="lbl313" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl315" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-InfoReveReCa_Itemreclasificado2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl316" xlink:type="resource" id="id316" xml:lang="es">Itemreclasificado2</link:label>
+    <link:labelArc xlink:to="lbl316" xlink:from="lbl315" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl317" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS3-ConcCambPlus_INGRESARDESCRIPCIÓNDECOLUMNAOPCIONAL_5" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl318" xlink:type="resource" id="id318" xml:lang="es">INGRESAR DESCRIPCIÓN DE COLUMNA OPCIONAL</link:label>
+    <link:labelArc xlink:to="lbl318" xlink:from="lbl317" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl319" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoSobrAsoc_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl320" xlink:type="resource" id="id320" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl320" xlink:from="lbl319" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl321" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoSobrAsoc_Agregarcolumnaopcional_9" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl322" xlink:type="resource" id="id322" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl322" xlink:from="lbl321" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl323" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl324" xlink:type="resource" id="id324" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl324" xlink:from="lbl323" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl325" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl326" xlink:type="resource" id="id326" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl326" xlink:from="lbl325" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl327" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_12" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl328" xlink:type="resource" id="id328" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl328" xlink:from="lbl327" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl329" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_13" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl330" xlink:type="resource" id="id330" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl330" xlink:from="lbl329" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl331" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_14" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl332" xlink:type="resource" id="id332" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl332" xlink:from="lbl331" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl333" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_15" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl334" xlink:type="resource" id="id334" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl334" xlink:from="lbl333" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl335" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_16" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl336" xlink:type="resource" id="id336" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl336" xlink:from="lbl335" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl337" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_17" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl338" xlink:type="resource" id="id338" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl338" xlink:from="lbl337" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl339" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_18" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl340" xlink:type="resource" id="id340" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl340" xlink:from="lbl339" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl341" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_19" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl342" xlink:type="resource" id="id342" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl342" xlink:from="lbl341" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl343" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_20" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl344" xlink:type="resource" id="id344" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl344" xlink:from="lbl343" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl345" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_21" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl346" xlink:type="resource" id="id346" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl346" xlink:from="lbl345" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl347" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_22" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl348" xlink:type="resource" id="id348" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl348" xlink:from="lbl347" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl349" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_23" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl350" xlink:type="resource" id="id350" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl350" xlink:from="lbl349" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl351" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_24" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl352" xlink:type="resource" id="id352" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl352" xlink:from="lbl351" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl353" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_25" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl354" xlink:type="resource" id="id354" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl354" xlink:from="lbl353" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl355" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_26" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl356" xlink:type="resource" id="id356" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl356" xlink:from="lbl355" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl357" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_27" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl358" xlink:type="resource" id="id358" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl358" xlink:from="lbl357" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl359" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_28" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl360" xlink:type="resource" id="id360" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl360" xlink:from="lbl359" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl361" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_29" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl362" xlink:type="resource" id="id362" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl362" xlink:from="lbl361" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl363" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_30" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl364" xlink:type="resource" id="id364" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl364" xlink:from="lbl363" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl365" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_31" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl366" xlink:type="resource" id="id366" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl366" xlink:from="lbl365" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl367" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_32" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl368" xlink:type="resource" id="id368" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl368" xlink:from="lbl367" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl369" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_33" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl370" xlink:type="resource" id="id370" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl370" xlink:from="lbl369" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl371" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_34" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl372" xlink:type="resource" id="id372" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl372" xlink:from="lbl371" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl373" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_35" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl374" xlink:type="resource" id="id374" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl374" xlink:from="lbl373" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl375" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_36" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl376" xlink:type="resource" id="id376" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl376" xlink:from="lbl375" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl377" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_37" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl378" xlink:type="resource" id="id378" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl378" xlink:from="lbl377" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl379" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_38" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl380" xlink:type="resource" id="id380" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl380" xlink:from="lbl379" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl381" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_39" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl382" xlink:type="resource" id="id382" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl382" xlink:from="lbl381" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl383" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_40" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl384" xlink:type="resource" id="id384" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl384" xlink:from="lbl383" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl385" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_41" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl386" xlink:type="resource" id="id386" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl386" xlink:from="lbl385" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl387" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_42" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl388" xlink:type="resource" id="id388" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl388" xlink:from="lbl387" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl389" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_43" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl390" xlink:type="resource" id="id390" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl390" xlink:from="lbl389" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl391" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_44" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl392" xlink:type="resource" id="id392" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl392" xlink:from="lbl391" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl393" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_45" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl394" xlink:type="resource" id="id394" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl394" xlink:from="lbl393" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl395" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_46" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl396" xlink:type="resource" id="id396" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl396" xlink:from="lbl395" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl397" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_47" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl398" xlink:type="resource" id="id398" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl398" xlink:from="lbl397" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl399" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_48" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl400" xlink:type="resource" id="id400" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl400" xlink:from="lbl399" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl401" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_49" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl402" xlink:type="resource" id="id402" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl402" xlink:from="lbl401" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl403" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_50" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl404" xlink:type="resource" id="id404" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl404" xlink:from="lbl403" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl405" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_51" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl406" xlink:type="resource" id="id406" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl406" xlink:from="lbl405" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl407" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_52" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl408" xlink:type="resource" id="id408" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl408" xlink:from="lbl407" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl409" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_53" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl410" xlink:type="resource" id="id410" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl410" xlink:from="lbl409" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl411" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_54" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl412" xlink:type="resource" id="id412" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl412" xlink:from="lbl411" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl413" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_55" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl414" xlink:type="resource" id="id414" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl414" xlink:from="lbl413" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl415" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl416" xlink:type="resource" id="id416" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl416" xlink:from="lbl415" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl417" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoReveSubs_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl418" xlink:type="resource" id="id418" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl418" xlink:from="lbl417" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl419" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Credito1_16" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl420" xlink:type="resource" id="id420" xml:lang="es">Credito1</link:label>
+    <link:labelArc xlink:to="lbl420" xlink:from="lbl419" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl421" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Credito2_17" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl422" xlink:type="resource" id="id422" xml:lang="es">Credito2</link:label>
+    <link:labelArc xlink:to="lbl422" xlink:from="lbl421" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl423" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Diferencia1_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl424" xlink:type="resource" id="id424" xml:lang="es">Diferencia1</link:label>
+    <link:labelArc xlink:to="lbl424" xlink:from="lbl423" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl425" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Diferencia2_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl426" xlink:type="resource" id="id426" xml:lang="es">Diferencia2</link:label>
+    <link:labelArc xlink:to="lbl426" xlink:from="lbl425" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl427" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Perdidas1_13" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl428" xlink:type="resource" id="id428" xml:lang="es">Perdidas1</link:label>
+    <link:labelArc xlink:to="lbl428" xlink:from="lbl427" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl429" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS12-InfoDifeTemp_Perdidas2_14" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl430" xlink:type="resource" id="id430" xml:lang="es">Perdidas2</link:label>
+    <link:labelArc xlink:to="lbl430" xlink:from="lbl429" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl431" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl432" xlink:type="resource" id="id432" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl432" xlink:from="lbl431" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl433" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl434" xlink:type="resource" id="id434" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl434" xlink:from="lbl433" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl435" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_12" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl436" xlink:type="resource" id="id436" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl436" xlink:from="lbl435" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl437" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_14" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl438" xlink:type="resource" id="id438" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl438" xlink:from="lbl437" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl439" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_15" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl440" xlink:type="resource" id="id440" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl440" xlink:from="lbl439" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl441" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_17" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl442" xlink:type="resource" id="id442" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl442" xlink:from="lbl441" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl443" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_18" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl444" xlink:type="resource" id="id444" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl444" xlink:from="lbl443" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl445" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_20" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl446" xlink:type="resource" id="id446" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl446" xlink:from="lbl445" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl447" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_21" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl448" xlink:type="resource" id="id448" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl448" xlink:from="lbl447" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl449" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_23" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl450" xlink:type="resource" id="id450" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl450" xlink:from="lbl449" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl451" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_24" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl452" xlink:type="resource" id="id452" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl452" xlink:from="lbl451" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl453" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_26" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl454" xlink:type="resource" id="id454" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl454" xlink:from="lbl453" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl455" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_27" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl456" xlink:type="resource" id="id456" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl456" xlink:from="lbl455" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl457" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_28" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl458" xlink:type="resource" id="id458" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl458" xlink:from="lbl457" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl459" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_29" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl460" xlink:type="resource" id="id460" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl460" xlink:from="lbl459" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl461" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_30" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl462" xlink:type="resource" id="id462" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl462" xlink:from="lbl461" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl463" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_31" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl464" xlink:type="resource" id="id464" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl464" xlink:from="lbl463" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl465" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_32" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl466" xlink:type="resource" id="id466" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl466" xlink:from="lbl465" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl467" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_33" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl468" xlink:type="resource" id="id468" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl468" xlink:from="lbl467" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl469" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_34" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl470" xlink:type="resource" id="id470" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl470" xlink:from="lbl469" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl471" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_35" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl472" xlink:type="resource" id="id472" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl472" xlink:from="lbl471" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl473" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_36" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl474" xlink:type="resource" id="id474" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl474" xlink:from="lbl473" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl475" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_37" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl476" xlink:type="resource" id="id476" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl476" xlink:from="lbl475" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl477" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_38" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl478" xlink:type="resource" id="id478" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl478" xlink:from="lbl477" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl479" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_39" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl480" xlink:type="resource" id="id480" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl480" xlink:from="lbl479" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl481" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_40" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl482" xlink:type="resource" id="id482" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl482" xlink:from="lbl481" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl483" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_41" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl484" xlink:type="resource" id="id484" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl484" xlink:from="lbl483" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl485" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl486" xlink:type="resource" id="id486" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl486" xlink:from="lbl485" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl487" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS24-InfoPartRela_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl488" xlink:type="resource" id="id488" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl488" xlink:from="lbl487" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl489" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS3-TranActvPasi_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl490" xlink:type="resource" id="id490" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl490" xlink:from="lbl489" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl491" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS3-TranActvPasi_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl492" xlink:type="resource" id="id492" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl492" xlink:from="lbl491" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl493" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoEstNoConj_Agregarcolumnaopcional_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl494" xlink:type="resource" id="id494" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl494" xlink:from="lbl493" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl495" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoEstNoConj_Agregarcolumnaopcional_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl496" xlink:type="resource" id="id496" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl496" xlink:from="lbl495" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl497" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoEstNoConj_Agregarcolumnaopcional_13" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl498" xlink:type="resource" id="id498" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl498" xlink:from="lbl497" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl499" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoEstNoConj_Agregarcolumnaopcional_14" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl500" xlink:type="resource" id="id500" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl500" xlink:from="lbl499" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl501" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoEstNoConj_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl502" xlink:type="resource" id="id502" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl502" xlink:from="lbl501" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl503" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IFRS12-InfoEstNoConj_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl504" xlink:type="resource" id="id504" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl504" xlink:from="lbl503" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl505" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS38-InfoActiIntaSign_Agregarcolumnaopcional_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl506" xlink:type="resource" id="id506" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl506" xlink:from="lbl505" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl507" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS38-InfoActiIntaSign_Agregarcolumnaopcional_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl508" xlink:type="resource" id="id508" xml:lang="es">Agregarcolumnaopcional</link:label>
+    <link:labelArc xlink:to="lbl508" xlink:from="lbl507" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl509" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-ClasCapiAcci_CostoVentas1_7" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl510" xlink:type="resource" id="id510" xml:lang="es">CostoVentas1</link:label>
+    <link:labelArc xlink:to="lbl510" xlink:from="lbl509" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl511" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-ClasCapiAcci_CostoVentas2_8" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl512" xlink:type="resource" id="id512" xml:lang="es">CostoVentas2</link:label>
+    <link:labelArc xlink:to="lbl512" xlink:from="lbl511" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl513" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-ClasCapiAcci_GastoVentaAdmin1_10" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl514" xlink:type="resource" id="id514" xml:lang="es">GastoVentaAdmin1</link:label>
+    <link:labelArc xlink:to="lbl514" xlink:from="lbl513" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+    <link:loc xlink:label="lbl515" xlink:href="94627000_2025-01-27_C_dimension.xsd#tx_IAS1-ClasCapiAcci_GastoVentaAdmin2_11" xlink:type="locator" />
+    <link:label xlink:role="http://www.xbrl.org/2003/role/label" xlink:label="lbl516" xlink:type="resource" id="id516" xml:lang="es">GastoVentaAdmin2</link:label>
+    <link:labelArc xlink:to="lbl516" xlink:from="lbl515" xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" />
+  </link:labelLink>
+</link:linkbase>
